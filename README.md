@@ -1,8 +1,11 @@
-## this project a chatbot 
+## this project is a chatbot using the nvidia nim 
 ## made in golang backend and react fronted
 -- the needed libraries for go
+##
 -- first dowload
+##
 -- go get github.com/gofiber/fiber/v2
+##
 -- go get github.com/joho/godotenv
 
 ## make a .env file i a using the new nvidia nim
